@@ -1,0 +1,23 @@
+extends ../node_modules/jade-bootstrap/_bootstrap
+append body
+    include header
+        //  Marketing messaging and featurettes
+    //  ==================================================
+    // Wrap the rest of the page in another container to center all the content.
+    .container.marketing
+        // START THE FEATURETTES
+        each gameDef in games
+            hr.featurette-divider
+            .row.featurette
+                .col-md-7
+                    h2.featurette-heading
+                        | #{gameDef.title}
+                    p.lead
+                        | #{gameDef.description}
+                .col-md-5
+                    img.featurette-image.img-responsive.center-block.img-rounded(src='#{gameDef.image}', alt='#{gameDef.title} placeholder image')
+                    h3
+                    a.btn.btn-default(href='#{gameDef.folderName}', role='button') View details >
+        // /END THE FEATURETTES
+        // FOOTER
+        include footer
