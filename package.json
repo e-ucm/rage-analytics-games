@@ -32,6 +32,7 @@
         "wrench": "*"
     },
     "devDependencies": {
+        "async": "*",
         "coveralls": "*",
         "handlebars": "*",
         "jscs": "*",

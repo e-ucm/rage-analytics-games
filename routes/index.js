@@ -126,9 +126,9 @@ router.post('/:gameName', function (req, res, next) {
         }
         var newConfiguration = 1;
 
-        for(var i = 1; i <= list.length; ++i) {
-            var dirName = '' + i;
-            if(list.indexOf(dirName) === -1) {
+        for (var i = 1; i <= list.length; ++i) {
+            var dirName = String(i);
+            if (list.indexOf(dirName) === -1) {
                 newConfiguration = i;
             }
         }

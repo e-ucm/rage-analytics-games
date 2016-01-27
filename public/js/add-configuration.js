@@ -13,7 +13,7 @@ $('#addConfiguration').click(function () {
     });
 });
 
-$("#removeConfiguration button").click(function () {
+$('#removeConfiguration button').click(function () {
     var gameTitle = $(this).val();
     var configurationId = gameTitle.substring(gameTitle.length - 1);
     $.ajax({
