@@ -54,7 +54,7 @@ router.get('/:gameName', function (req, res, next) {
 
         var configurations = [];
         var def = JSON.parse(fs.readFileSync('./public/games/' + req.params.gameName + '/def.json', 'utf8'));
-        var thumbnailPath = '/games/' + req.params.gameName + '/' + def.image;
+        var thumbnailPath = 'games/' + req.params.gameName + '/' + def.image;
 
         // For every file in the list
         list.forEach(function (file) {
@@ -66,7 +66,7 @@ router.get('/:gameName', function (req, res, next) {
             if (stat && stat.isDirectory()) {
                 // Dive into the directory
                 var config = {};
-                var gamePath = '/games/' + req.params.gameName + '/configurations' + '/' + file;
+                var gamePath = 'games/' + req.params.gameName + '/configurations' + '/' + file;
                 config.url = gamePath + '/index.html';
                 config.title = def.title + ' - ' + file;
 
@@ -189,7 +189,7 @@ router.get('', function (req, res, next) {
                 // Dive into the directory
                 var gameDefString = fs.readFileSync(path + '/def.json', 'utf8');
                 var def = JSON.parse(gameDefString);
-                def.image = '/games/' + file + '/' + def.image;
+                def.image = 'games/' + file + '/' + def.image;
                 def.folderName = file;
                 games.push(def);
             } else {

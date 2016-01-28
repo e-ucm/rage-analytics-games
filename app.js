@@ -3,7 +3,6 @@
 var path = require('path'),
     logger = require('morgan'),
     express = require('express'),
-    favicon = require('serve-favicon'),
     bodyParser = require('body-parser'),
     cookieParser = require('cookie-parser');
 
@@ -17,7 +16,6 @@ app.config = require((process.env.NODE_ENV === 'test') ? './config-test' : './co
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'jade');
 
-app.use(favicon(__dirname + '/public/rageicon.png'));
 // Logging middleware
 if (app.get('env') === 'development') {
     app.use(logger('dev'));
