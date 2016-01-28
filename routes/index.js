@@ -5,6 +5,14 @@ var router = express.Router();
 var fs = require('fs');
 var wrench = require('wrench');
 
+function fileExists(filePath) {
+    try {
+        return fs.statSync(filePath);
+    } catch(err) {
+        return !(err && err.code === 'ENOENT');
+    }
+}
+
 /**
  * Given a base game path, searches for the 'assets' folder in:
  *
@@ -13,6 +21,7 @@ var wrench = require('wrench');
  *      or
  *
  *      baseGamePath + '/Assets/Assets' <-- Unity format
+ *      baseGamePath + '/Assets'        <-- Unity format
  *
  * If none of the above options are found, null is returned.
  *
@@ -20,16 +29,21 @@ var wrench = require('wrench');
  * @returns path to the 'track.txt' file inside 'assets/'(or Assers/) folder, or null
  */
 var getAssetsRoute = function(baseGamePath) {
-    var stat = fs.statSync(baseGamePath + '/assets');
+    var stat = fileExists(baseGamePath + '/assets');
     var assetsFile = '';
     if (stat && stat.isDirectory()) {
         assetsFile = baseGamePath + '/assets/track.txt';
     } else {
-        stat = fs.statSync(baseGamePath + '/Assets/Assets');
+        stat = fileExists(baseGamePath + '/Assets/Assets');
         if (stat && stat.isDirectory()) {
             assetsFile = baseGamePath + '/Assets/Assets/track.txt';
         } else {
-            return null;
+            stat = fileExists(baseGamePath + '/Assets');
+            if (stat && stat.isDirectory()) {
+                assetsFile = baseGamePath + '/Assets/track.txt';
+            } else {
+                return null;
+            }
         }
     }
     return assetsFile;
