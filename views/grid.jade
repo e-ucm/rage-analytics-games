@@ -1,4 +1,4 @@
-extends ../node_modules/jade-bootstrap/_bootstrap
+extends layout
 append body
     include header
     .container.marketing
@@ -15,7 +15,9 @@ append body
                         .form-group
                             label(for="collectorUrl") Collector URL
                             input.form-control(type="text",id="collectorUrl",placeholder="Collector URL", value="https://rage.e-ucm.es/api/proxy/gleaner/collector/")
-                        +input('text','trackingCode','Tracking Code','Tracking Code')
+                        .form-group
+                            label(for="trackingCode") Tracking Code
+                            input.form-control(type="text",id="trackingCode",placeholder="Tracking Code")
                     .modal-footer
                         button.btn.btn-default.glyphicon.glyphicon-plus(type="button", id="addConfiguration",data-dismiss="modal")
         img.featurette-image.img-responsive.center-block.img-thumbnail(src='#{thumbnailPath}', alt='#{gameTitle} placeholder image')
@@ -40,4 +42,4 @@ append body
         // FOOTER
         include footer
 append scripts
-    script(src='/js/add-configuration.js')
+    script(src='js/add-configuration.js')
