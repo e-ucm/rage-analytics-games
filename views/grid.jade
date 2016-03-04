@@ -1,0 +1,45 @@
+extends layout
+append body
+    include header
+    .container.marketing
+        hr.featurette-divider
+        .modal.fade(id="myModal",tabindex="-1",role="dialog",aria-labelledby="Configuration" aria-hidden="true")
+            .modal-dialog
+                .modal-content
+                    .modal-header
+                        button.close(type="button",data-dismiss="modal")
+                            span(aria-hidden="true") &times;
+                            span.sr-only Close
+                        h4.modal-title(id="Configuration") #{gameTitle} configuration
+                    .modal-body
+                        .form-group
+                            label(for="collectorUrl") Collector URL
+                            input.form-control(type="text",id="collectorUrl",placeholder="Collector URL", value="https://rage.e-ucm.es/api/proxy/gleaner/collector/")
+                        .form-group
+                            label(for="trackingCode") Tracking Code
+                            input.form-control(type="text",id="trackingCode",placeholder="Tracking Code")
+                    .modal-footer
+                        button.btn.btn-default.glyphicon.glyphicon-plus(type="button", id="addConfiguration",data-dismiss="modal")
+        img.featurette-image.img-responsive.center-block.img-thumbnail(src='#{thumbnailPath}', alt='#{gameTitle} placeholder image')
+        h3
+        button.btn.btn-primary(data-toggle="modal",data-target="#myModal") New configuration
+        // START THE FEATURETTES
+        each gameConf in configurations
+            hr.featurette-divider
+            .row.featurette
+                .col-md-10
+                    h2.featurette-heading(id="removeConfiguration")
+                        | #{gameConf.title}
+                        button.btn.btn-default.glyphicon.glyphicon-remove(type="button", value="#{gameConf.title}")
+                    p.lead
+                        | Collector URL:
+                        span.text-muted #{gameConf.collectorUrl}
+                    p.lead
+                        | Tracking Code:
+                        span.text-muted #{gameConf.trackingCode}
+                    a.btn.btn-default(href='#{gameConf.url}', role='button') Play >
+        // /END THE FEATURETTES
+        // FOOTER
+        include footer
+append scripts
+    script(src='js/add-configuration.js')
