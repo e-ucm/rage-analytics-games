@@ -1,0 +1,78 @@
+
+skin.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Nunito-Bold-24
+  rotate: false
+  xy: 2, 556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Nunito-Bold-48
+  rotate: false
+  xy: 2, 298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Nunito-Regular-24
+  rotate: false
+  xy: 260, 556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Nunito-Regular-48
+  rotate: false
+  xy: 2, 40
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+RobotoCondensed-Bold-12
+  rotate: false
+  xy: 260, 298
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+RobotoCondensed-Regular-12
+  rotate: false
+  xy: 518, 556
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+blank
+  rotate: false
+  xy: 260, 272
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 518, 530
+  size: 24, 24
+  split: 7, 7, 7, 7
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 2
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+round5
+  rotate: false
+  xy: 776, 803
+  size: 9, 9
+  split: 3, 3, 3, 3
+  orig: 9, 9
+  offset: 0, 0
+  index: -1

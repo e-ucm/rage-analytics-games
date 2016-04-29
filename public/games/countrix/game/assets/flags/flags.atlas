@@ -1,0 +1,1489 @@
+
+flags.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Albania
+  rotate: false
+  xy: 764, 658
+  size: 252, 180
+  orig: 252, 180
+  offset: 0, 0
+  index: -1
+Andorra
+  rotate: false
+  xy: 764, 298
+  size: 252, 176
+  orig: 252, 176
+  offset: 0, 0
+  index: -1
+Belgium
+  rotate: false
+  xy: 256, 803
+  size: 252, 218
+  orig: 252, 218
+  offset: 0, 0
+  index: -1
+Brazil
+  rotate: false
+  xy: 764, 120
+  size: 252, 176
+  orig: 252, 176
+  offset: 0, 0
+  index: -1
+Democratic_Republic_of_the_Congo
+  rotate: false
+  xy: 256, 201
+  size: 252, 189
+  orig: 252, 189
+  offset: 0, 0
+  index: -1
+Denmark
+  rotate: false
+  xy: 256, 392
+  size: 252, 191
+  orig: 252, 191
+  offset: 0, 0
+  index: -1
+Faroe_Islands
+  rotate: false
+  xy: 510, 456
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+Gabon
+  rotate: false
+  xy: 256, 10
+  size: 252, 189
+  orig: 252, 189
+  offset: 0, 0
+  index: -1
+Iceland
+  rotate: false
+  xy: 764, 840
+  size: 252, 181
+  orig: 252, 181
+  offset: 0, 0
+  index: -1
+Israel
+  rotate: false
+  xy: 510, 271
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+Kosovo
+  rotate: false
+  xy: 764, 476
+  size: 252, 180
+  orig: 252, 180
+  offset: 0, 0
+  index: -1
+Monaco
+  rotate: false
+  xy: 2, 2
+  size: 252, 202
+  orig: 252, 202
+  offset: 0, 0
+  index: -1
+Nepal
+  rotate: false
+  xy: 2, 714
+  size: 252, 307
+  orig: 252, 307
+  offset: 0, 0
+  index: -1
+Niger
+  rotate: false
+  xy: 256, 585
+  size: 252, 216
+  orig: 252, 216
+  offset: 0, 0
+  index: -1
+Norway
+  rotate: false
+  xy: 510, 86
+  size: 252, 183
+  orig: 252, 183
+  offset: 0, 0
+  index: -1
+Papua_New_Guinea
+  rotate: false
+  xy: 510, 832
+  size: 252, 189
+  orig: 252, 189
+  offset: 0, 0
+  index: -1
+Qatar
+  rotate: false
+  xy: 764, 19
+  size: 252, 99
+  orig: 252, 99
+  offset: 0, 0
+  index: -1
+San_Marino
+  rotate: false
+  xy: 510, 641
+  size: 252, 189
+  orig: 252, 189
+  offset: 0, 0
+  index: -1
+Switzerland
+  rotate: false
+  xy: 2, 460
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+Vatican_City
+  rotate: false
+  xy: 2, 206
+  size: 252, 252
+  orig: 252, 252
+  offset: 0, 0
+  index: -1
+
+flags2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Afghanistan
+  rotate: false
+  xy: 2, 679
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Algeria
+  rotate: false
+  xy: 256, 853
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Angola
+  rotate: false
+  xy: 2, 509
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Antigua_and_Barbuda
+  rotate: false
+  xy: 256, 683
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Aruba
+  rotate: false
+  xy: 510, 853
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Austria
+  rotate: false
+  xy: 2, 339
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Barbados
+  rotate: false
+  xy: 256, 513
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Belize
+  rotate: false
+  xy: 510, 683
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Benin
+  rotate: false
+  xy: 764, 853
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Bhutan
+  rotate: false
+  xy: 2, 169
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Bolivia
+  rotate: false
+  xy: 2, 849
+  size: 252, 172
+  orig: 252, 172
+  offset: 0, 0
+  index: -1
+Botswana
+  rotate: false
+  xy: 256, 343
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Burkina_Faso
+  rotate: false
+  xy: 510, 513
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Cameroon
+  rotate: false
+  xy: 764, 683
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Central_African_Republic
+  rotate: false
+  xy: 256, 173
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Chad
+  rotate: false
+  xy: 510, 343
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Chile
+  rotate: false
+  xy: 764, 513
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+China
+  rotate: false
+  xy: 510, 173
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Colombia
+  rotate: false
+  xy: 764, 343
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Curaçao
+  rotate: false
+  xy: 764, 173
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Cyprus
+  rotate: false
+  xy: 2, 2
+  size: 252, 165
+  orig: 252, 165
+  offset: 0, 0
+  index: -1
+Czech_Republic
+  rotate: false
+  xy: 256, 3
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Djibouti
+  rotate: false
+  xy: 510, 3
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Dominican_Republic
+  rotate: false
+  xy: 764, 3
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+
+flags3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Ecuador
+  rotate: false
+  xy: 2, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Egypt
+  rotate: false
+  xy: 2, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Equatorial_Guinea
+  rotate: false
+  xy: 256, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+France
+  rotate: false
+  xy: 2, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Georgia
+  rotate: false
+  xy: 256, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Ghana
+  rotate: false
+  xy: 510, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Greece
+  rotate: false
+  xy: 2, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Greenland
+  rotate: false
+  xy: 256, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Guinea
+  rotate: false
+  xy: 510, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+India
+  rotate: false
+  xy: 764, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Indonesia
+  rotate: false
+  xy: 2, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Iraq
+  rotate: false
+  xy: 256, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Italy
+  rotate: false
+  xy: 510, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Ivory_Coast
+  rotate: false
+  xy: 764, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Japan
+  rotate: false
+  xy: 2, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Kenya
+  rotate: false
+  xy: 256, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Laos
+  rotate: false
+  xy: 510, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Lebanon
+  rotate: false
+  xy: 764, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Lesotho
+  rotate: false
+  xy: 256, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Madagascar
+  rotate: false
+  xy: 510, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Malawi
+  rotate: false
+  xy: 764, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Maldives
+  rotate: false
+  xy: 510, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Mali
+  rotate: false
+  xy: 764, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Malta
+  rotate: false
+  xy: 764, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+
+flags4.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Mauritania
+  rotate: false
+  xy: 2, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Mauritius
+  rotate: false
+  xy: 2, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Morocco
+  rotate: false
+  xy: 256, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Mozambique
+  rotate: false
+  xy: 2, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Myanmar
+  rotate: false
+  xy: 256, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Namibia
+  rotate: false
+  xy: 510, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Netherlands
+  rotate: false
+  xy: 2, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Pakistan
+  rotate: false
+  xy: 256, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Panama
+  rotate: false
+  xy: 510, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Peru
+  rotate: false
+  xy: 764, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Portugal
+  rotate: false
+  xy: 2, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Republic_of_the_Congo
+  rotate: false
+  xy: 256, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Romania
+  rotate: false
+  xy: 510, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Russia
+  rotate: false
+  xy: 764, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Rwanda
+  rotate: false
+  xy: 2, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Saint_Kitts_and_Nevis
+  rotate: false
+  xy: 256, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Saint_Vincent_and_the_Grenadines
+  rotate: false
+  xy: 510, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Saudi_Arabia
+  rotate: false
+  xy: 764, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Senegal
+  rotate: false
+  xy: 256, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Serbia
+  rotate: false
+  xy: 510, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Sierra_Leone
+  rotate: false
+  xy: 764, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Singapore
+  rotate: false
+  xy: 510, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Slovakia
+  rotate: false
+  xy: 764, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Somalia
+  rotate: false
+  xy: 764, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+
+flags5.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Argentina
+  rotate: false
+  xy: 764, 189
+  size: 252, 158
+  orig: 252, 158
+  offset: 0, 0
+  index: -1
+Cambodia
+  rotate: false
+  xy: 764, 349
+  size: 252, 161
+  orig: 252, 161
+  offset: 0, 0
+  index: -1
+Estonia
+  rotate: false
+  xy: 510, 10
+  size: 252, 160
+  orig: 252, 160
+  offset: 0, 0
+  index: -1
+Guatemala
+  rotate: false
+  xy: 764, 29
+  size: 252, 158
+  orig: 252, 158
+  offset: 0, 0
+  index: -1
+South_Africa
+  rotate: false
+  xy: 2, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+South_Korea
+  rotate: false
+  xy: 2, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Spain
+  rotate: false
+  xy: 256, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Suriname
+  rotate: false
+  xy: 2, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Swaziland
+  rotate: false
+  xy: 256, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Syria
+  rotate: false
+  xy: 510, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Taiwan
+  rotate: false
+  xy: 2, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Tanzania
+  rotate: false
+  xy: 256, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Thailand
+  rotate: false
+  xy: 510, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+The_Gambia
+  rotate: false
+  xy: 764, 852
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Tunisia
+  rotate: false
+  xy: 2, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Turkey
+  rotate: false
+  xy: 256, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Turkmenistan
+  rotate: false
+  xy: 510, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Uganda
+  rotate: false
+  xy: 764, 682
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Ukraine
+  rotate: false
+  xy: 2, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Uruguay
+  rotate: false
+  xy: 256, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Venezuela
+  rotate: false
+  xy: 510, 342
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Vietnam
+  rotate: false
+  xy: 764, 512
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Yemen
+  rotate: false
+  xy: 256, 2
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+Zambia
+  rotate: false
+  xy: 510, 172
+  size: 252, 168
+  orig: 252, 168
+  offset: 0, 0
+  index: -1
+
+flags6.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bahrain
+  rotate: false
+  xy: 510, 786
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Bangladesh
+  rotate: false
+  xy: 2, 308
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Bulgaria
+  rotate: false
+  xy: 256, 470
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Burundi
+  rotate: false
+  xy: 510, 633
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Cape_Verde
+  rotate: false
+  xy: 764, 177
+  size: 252, 148
+  orig: 252, 148
+  offset: 0, 0
+  index: -1
+Comoros
+  rotate: false
+  xy: 764, 786
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Costa_Rica
+  rotate: false
+  xy: 2, 155
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Finland
+  rotate: false
+  xy: 256, 623
+  size: 252, 154
+  orig: 252, 154
+  offset: 0, 0
+  index: -1
+Germany
+  rotate: false
+  xy: 256, 317
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Grenada
+  rotate: false
+  xy: 510, 480
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Guyana
+  rotate: false
+  xy: 764, 633
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Haiti
+  rotate: false
+  xy: 2, 2
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Iran
+  rotate: false
+  xy: 764, 31
+  size: 252, 144
+  orig: 252, 144
+  offset: 0, 0
+  index: -1
+Kyrgyzstan
+  rotate: false
+  xy: 256, 164
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Liechtenstein
+  rotate: false
+  xy: 510, 327
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Lithuania
+  rotate: false
+  xy: 764, 480
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Luxembourg
+  rotate: false
+  xy: 256, 11
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Nicaragua
+  rotate: false
+  xy: 510, 174
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Palau
+  rotate: false
+  xy: 2, 779
+  size: 252, 158
+  orig: 252, 158
+  offset: 0, 0
+  index: -1
+Poland
+  rotate: false
+  xy: 2, 619
+  size: 252, 158
+  orig: 252, 158
+  offset: 0, 0
+  index: -1
+Sweden
+  rotate: false
+  xy: 256, 779
+  size: 252, 158
+  orig: 252, 158
+  offset: 0, 0
+  index: -1
+Togo
+  rotate: false
+  xy: 2, 461
+  size: 252, 156
+  orig: 252, 156
+  offset: 0, 0
+  index: -1
+Trinidad_and_Tobago
+  rotate: false
+  xy: 764, 327
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+Vanuatu
+  rotate: false
+  xy: 510, 21
+  size: 252, 151
+  orig: 252, 151
+  offset: 0, 0
+  index: -1
+
+flags7.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Abkhazia
+  rotate: false
+  xy: 256, 542
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Armenia
+  rotate: false
+  xy: 510, 683
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Australia
+  rotate: false
+  xy: 764, 818
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Azerbaijan
+  rotate: false
+  xy: 2, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Bahamas
+  rotate: false
+  xy: 256, 414
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Belarus
+  rotate: false
+  xy: 510, 555
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Bosnia_and_Herzegovina
+  rotate: false
+  xy: 764, 690
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Brunei
+  rotate: false
+  xy: 2, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Canada
+  rotate: false
+  xy: 256, 286
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Cook_Islands
+  rotate: false
+  xy: 510, 427
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Croatia
+  rotate: false
+  xy: 764, 562
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Cuba
+  rotate: false
+  xy: 2, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Dominica
+  rotate: false
+  xy: 256, 158
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+East_Timor
+  rotate: false
+  xy: 510, 299
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+El_Salvador
+  rotate: false
+  xy: 2, 656
+  size: 252, 142
+  orig: 252, 142
+  offset: 0, 0
+  index: -1
+Eritrea
+  rotate: false
+  xy: 764, 434
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Ethiopia
+  rotate: false
+  xy: 256, 30
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Federated_States_of_Micronesia
+  rotate: false
+  xy: 2, 521
+  size: 252, 133
+  orig: 252, 133
+  offset: 0, 0
+  index: -1
+Fiji
+  rotate: false
+  xy: 510, 171
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Guinea-Bissau
+  rotate: false
+  xy: 764, 306
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Honduras
+  rotate: false
+  xy: 510, 43
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Hungary
+  rotate: false
+  xy: 764, 178
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Jamaica
+  rotate: false
+  xy: 764, 50
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Liberia
+  rotate: false
+  xy: 256, 670
+  size: 252, 133
+  orig: 252, 133
+  offset: 0, 0
+  index: -1
+Marshall_Islands
+  rotate: false
+  xy: 510, 811
+  size: 252, 133
+  orig: 252, 133
+  offset: 0, 0
+  index: -1
+Mexico
+  rotate: false
+  xy: 2, 800
+  size: 252, 144
+  orig: 252, 144
+  offset: 0, 0
+  index: -1
+Paraguay
+  rotate: false
+  xy: 256, 805
+  size: 252, 139
+  orig: 252, 139
+  offset: 0, 0
+  index: -1
+United_States
+  rotate: false
+  xy: 2, 386
+  size: 252, 133
+  orig: 252, 133
+  offset: 0, 0
+  index: -1
+
+flags8.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Jordan
+  rotate: false
+  xy: 2, 770
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Kazakhstan
+  rotate: false
+  xy: 2, 642
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Kiribati
+  rotate: false
+  xy: 256, 770
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Kuwait
+  rotate: false
+  xy: 2, 514
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Latvia
+  rotate: false
+  xy: 256, 642
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Libya
+  rotate: false
+  xy: 510, 770
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Malaysia
+  rotate: false
+  xy: 2, 386
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Moldova
+  rotate: false
+  xy: 256, 514
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Mongolia
+  rotate: false
+  xy: 510, 642
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Montenegro
+  rotate: false
+  xy: 764, 770
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Nauru
+  rotate: false
+  xy: 2, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+New_Zealand
+  rotate: false
+  xy: 256, 386
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Nigeria
+  rotate: false
+  xy: 510, 514
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Niue
+  rotate: false
+  xy: 764, 642
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+North_Korea
+  rotate: false
+  xy: 2, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Oman
+  rotate: false
+  xy: 256, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Palestine
+  rotate: false
+  xy: 510, 386
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Philippines
+  rotate: false
+  xy: 764, 514
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Republic_of_Ireland
+  rotate: false
+  xy: 2, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Republic_of_Macedonia
+  rotate: false
+  xy: 256, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Saint_Lucia
+  rotate: false
+  xy: 510, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Samoa
+  rotate: false
+  xy: 764, 386
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Seychelles
+  rotate: false
+  xy: 256, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Slovenia
+  rotate: false
+  xy: 510, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Solomon_Islands
+  rotate: false
+  xy: 764, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+South_Ossetia
+  rotate: false
+  xy: 510, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+South_Sudan
+  rotate: false
+  xy: 764, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Sri_Lanka
+  rotate: false
+  xy: 764, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+
+flags9.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Sudan
+  rotate: false
+  xy: 2, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+São_Tomé_and_Príncipe
+  rotate: false
+  xy: 2, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Tajikistan
+  rotate: false
+  xy: 256, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Tonga
+  rotate: false
+  xy: 2, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Tuvalu
+  rotate: false
+  xy: 256, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+United_Arab_Emirates
+  rotate: false
+  xy: 510, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+United_Kingdom
+  rotate: false
+  xy: 256, 2
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Uzbekistan
+  rotate: false
+  xy: 510, 130
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1
+Zimbabwe
+  rotate: false
+  xy: 764, 258
+  size: 252, 126
+  orig: 252, 126
+  offset: 0, 0
+  index: -1

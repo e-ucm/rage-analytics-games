@@ -1,0 +1,119 @@
+
+skin.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Nunito-Bold-24
+  rotate: false
+  xy: 2, 642
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Nunito-Bold-48
+  rotate: false
+  xy: 2, 384
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+Nunito-Bold-48
+  rotate: false
+  xy: 260, 642
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+Nunito-Bold-48
+  rotate: false
+  xy: 2, 126
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+Nunito-Bold-48
+  rotate: false
+  xy: 260, 384
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 3
+Nunito-Regular-24
+  rotate: false
+  xy: 518, 642
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Nunito-Regular-48
+  rotate: false
+  xy: 260, 126
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 0
+Nunito-Regular-48
+  rotate: false
+  xy: 518, 384
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 1
+Nunito-Regular-48
+  rotate: false
+  xy: 518, 126
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: 2
+blank
+  rotate: false
+  xy: 776, 850
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+button
+  rotate: false
+  xy: 2, 2
+  size: 48, 48
+  split: 15, 15, 15, 15
+  orig: 48, 48
+  offset: 0, 0
+  index: -1
+open
+  rotate: false
+  xy: 2, 52
+  size: 72, 72
+  orig: 72, 72
+  offset: 0, 0
+  index: -1
+round5
+  rotate: false
+  xy: 76, 105
+  size: 19, 19
+  split: 7, 7, 7, 7
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+
+skin2.png
+size: 1024,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+RobotoCondensed-Bold-12
+  rotate: false
+  xy: 2, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+RobotoCondensed-Regular-12
+  rotate: false
+  xy: 260, 2
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
